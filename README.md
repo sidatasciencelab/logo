@@ -1,1 +1,1 @@
-# logo
+# Smithsonian OCIO Data Science Lab Logos
